@@ -59,13 +59,13 @@ const AllocationForm = () => {
                                         variant="primary" 
                                         type="submit" 
                                         className="mb-3"
-                                        style={{ 
+                                        style={ 
                                             backgroundColor: '#007bff',
                                             borderColor: '#007bff',
                                             padding: '10px 30px',
                                             fontSize: '16px',
                                             boxShadow: '0 4px 6px rgba(0, 123, 255, 0.3)'
-                                        }}
+                                        }
                                     >
                                         Save Allocation
                                     </Button>
